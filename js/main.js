@@ -1,4 +1,4 @@
-console.log("\n %c HeoMusic 开源静态音乐播放器 %c https://github.com/zhheo/HeoMusic \n", "color: #fadfa3; background: #030307; padding:5px 0;", "background: #fadfa3; padding:5px 0;")
+
 var local = false;
 var isScrolling = false; // 添加全局变量 isScrolling，默认为 false
 var scrollTimer = null; // 添加定时器变量
