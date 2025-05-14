@@ -1,4 +1,4 @@
-# HeoMusic
+# YVYY Music
 
 ![](/img/HeoMusic3.webp)
 
@@ -6,7 +6,7 @@
 
 ## 预览
 
-[HeoMusic - 用音乐感染人心](https://music.zhheo.com/)
+[HeoMusic - 用音乐感染人心](https://www.yvyy.net/)
 
 ## 基本操作
 
@@ -20,13 +20,13 @@
 
 ### 使用URL参数（推荐）（适用于在线音乐）
 
-HeoMusic支持URL参数 `https://music.zhheo.com/?id=`+ id +`&server=` + server
+HeoMusic支持URL参数 `https://www.yvyy.net/?id=`+ id +`&server=` + server
 
 例如：
 
-**HeoMusicTop:** https://music.zhheo.com/?id=8668419170&server=tencent
+**HeoMusicTop:** https://www.yvyy.net/?id=8668419170&server=tencent
 
-**鸡你太美:** https://music.zhheo.com/?id=2762963245&server=netease
+**鸡你太美:** https://www.yvyy.net/?id=2762963245&server=netease
 
 ### 修改配置文件（适用于在线音乐和本地音乐）
 
@@ -101,13 +101,6 @@ musicjson内容例如：
 ]
 ```
 
-## 参与开发
-
-[@张洪Heo](https://github.com/zhheo)
-[@anzhiyu](https://github.com/anzhiyu-c)
-[@Glowed](https://github.com/Glowed)
-[@kuole-o](https://github.com/kuole-o)
-[查看更多](https://github.com/zhheo/HeoMusic/graphs/contributors)
 
 ## 许可
 
@@ -124,9 +117,3 @@ musicjson内容例如：
 [color-thief](https://github.com/lokesh/color-thief)
 
 图标采用remixicon，使用 Apache 协议
-
-## 打赏
-
-如果你喜欢这个项目，不妨支持一下作者，让作者更有动力更新！
-
-[去打赏作者](https://rewards.zhheo.com/)
