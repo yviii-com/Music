@@ -6,7 +6,7 @@
 
 ## 预览
 
-[HeoMusic - 用音乐感染人心](https://www.yvyy.net/)
+[YVYYMusic - 用音乐感染人心](https://www.yvyy.net/)
 
 ## 基本操作
 
