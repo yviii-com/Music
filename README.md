@@ -40,7 +40,7 @@ HeoMusic支持URL参数 `https://www.yvyy.net/?id=`+ id +`&server=` + server
 
 #### Server
 
-播放列表的服务商，例如`netease`（网易云音乐）,`tencent`（腾讯）,`kugou`（酷狗）,`xiami`（小米音乐）,`baidu`（百度音乐）
+播放列表的服务商，例如`netease`（网易云音乐）,`tencent`（腾讯）,`kugou`（酷狗）,`xiami`（虾米音乐）,`baidu`（百度音乐）
 
 #### Type（可选）
 
